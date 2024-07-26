@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @FireStar0507.
--    你好，我是FireStar0507。
+- 👋 Hi, I’m @FireStar0507.(one 6th grade elementary school student)
+-    你好，我是FireStar0507。（一个六年级小学生）
 - 👀 I’m interested in Python.
 -    我对Python感兴趣。
 - 🌱 I’m currently learning python.
