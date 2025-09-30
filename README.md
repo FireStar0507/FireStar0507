@@ -15,7 +15,7 @@
 - 😄 Pronouns: Q
 -    外号：皮蛋
 
-这是我刚刚建的站：[luyj.gt.tc](luyj.gt.tc)
+这是我刚刚建的站：[luyj.gt.tc](https://luyj.gt.tc)
 
 ![](https://github-readme-stats.vercel.app/api?username=FireStar0507&show_icons=true&theme=transparent)
 
