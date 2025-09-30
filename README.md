@@ -15,10 +15,7 @@
 - 😄 Pronouns: Q
 -    外号：皮蛋
 
-<!---
-FireStar0507/FireStar0507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+这是我刚刚建的站：[luyj.gt.tc](luyj.gt.tc)
 
 ![](https://github-readme-stats.vercel.app/api?username=FireStar0507&show_icons=true&theme=transparent)
 
